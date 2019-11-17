@@ -1,0 +1,16 @@
+{
+  "name": "tetriscore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "example": "node examples/game"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^6.2.3"
+  },
+  "devDependencies": {}
+}
